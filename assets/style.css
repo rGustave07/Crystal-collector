@@ -1,0 +1,15 @@
+header {
+  padding-bottom: 20px;
+}
+
+#rndnumbox,
+#winloss {
+  background-color: lightgrey;
+  width: 150px;
+  height: 70px;
+  margin-bottom: 20px;
+}
+
+#buttonsbox{
+  padding: 20px;
+}
